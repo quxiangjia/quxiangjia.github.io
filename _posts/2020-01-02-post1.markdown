@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: 个人简历!
 date: 2020-09-25 19:20:23 +0900
 category: sample
 ---
@@ -11,3 +11,43 @@ This is code
 ```ruby
 print 'hello world'
 ```
+
+# 联系方式
+
+- 手机：13383117642 
+- Email：quxiangjia@yeah.net 
+- 微信号：wxid_fs526s2z4l8l00
+
+
+# 个人信息
+
+ - 瞿祥佳/男/1999 
+ - 本科/石家庄铁道大学软件工程专业 
+ - 工作年限：应届
+ - 技术博客：https://www.cnblogs.com/quxiangjia/ 
+ - Github：https://github.com/quxiangjia 
+
+ - 期望职位：Java软件工程师
+ - 期望薪资：税前月薪10k~20k，特别喜欢的公司可例外
+ - 期望城市：宁波
+
+
+# 获奖经历
+
+
+
+### 第九届中国软件杯全国三等奖（2020年8月28日） 
+
+### 高性能光谱探测集成器件的研究与应用青年科研创新专项申报成功
+
+### ”Bonny”软件著作权（2019年12月）
+
+### ”PonnyNOTE”软件著作权（2019年11月）
+
+### 东软杯程序设计大赛校级三等奖（2019年11月）
+
+### 校级创新创业项目立项成功（2019年10月）
+
+### 二等奖学金（2019年3月）
+
+
