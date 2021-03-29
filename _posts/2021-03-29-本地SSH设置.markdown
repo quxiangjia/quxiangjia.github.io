@@ -7,11 +7,11 @@ category: MyNotes
 
 
 #### 1、输入命令，查看本地是否存在SSH-Key
-• ls -al ~/.ssh
+- ls -al ~/.ssh
 #### 2、如果没有，生成新的SSH Key，如果有直接第4步
-• ssh-keygen -t rsa -C"you_email"
-• your_email：这里填写你在GitLab或者GitHub注册时的邮箱。
+- ssh-keygen -t rsa -C"you_email"
+- your_email：这里填写你在GitLab或者GitHub注册时的邮箱。
 #### 3、生成并添加SSH Key
-• ssh-add ~/.ssh/id_rsa
+- ssh-add ~/.ssh/id_rsa
 #### 4、查看SSH Key
-• cat /Users/xxx/.ssh/id_rsa.pub
+- cat /Users/xxx/.ssh/id_rsa.pub
